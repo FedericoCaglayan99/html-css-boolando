@@ -220,6 +220,9 @@ figcaption {
     padding-right: 29em;
     gap: 5px;
 }
+.icons a {
+    color: white;
+}
 .iconshearth1 {
     display: flex;
     position: absolute;
