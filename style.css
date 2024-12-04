@@ -232,6 +232,9 @@ figcaption {
    align-items: center;
     
 }
+.iconshearth1:hover {
+    color: red;
+}
 .iconshearth2 {
     display: flex;
     position: absolute;
@@ -241,8 +244,10 @@ figcaption {
     width: 30px;
     height: 30px;
     justify-content: center;
-   align-items: center;
-    
+   align-items: center;  
+}
+.iconshearth2:hover {
+    color: red;
 }
 .iconshearth3 {
     display: flex;
@@ -255,6 +260,9 @@ figcaption {
     justify-content: center;
    align-items: center;
 }
+.iconshearth3:hover {
+    color: red;
+}
 .iconshearth4 {
     display: flex;
     position: absolute;
@@ -265,6 +273,9 @@ figcaption {
     min-height: 30px;
     justify-content: center;
    align-items: center;
+}
+.iconshearth4:hover {
+    color: red;
 }
 .iconshearth5 {
     display: flex;
@@ -277,6 +288,9 @@ figcaption {
     justify-content: center;
    align-items: center;
 }
+.iconshearth5:hover {
+    color: red;
+}
 .iconshearth6 {
     display: flex;
     position: absolute;
@@ -287,4 +301,7 @@ figcaption {
     min-height: 30px;
     justify-content: center;
    align-items: center;
+}
+.iconshearth6:hover {
+    color: red;
 }
