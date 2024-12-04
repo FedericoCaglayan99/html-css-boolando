@@ -78,6 +78,7 @@ body {
     object-fit: cover; 
     border-radius: 8px; 
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    
 }
 
 .gallery-image:hover {
@@ -88,7 +89,7 @@ body {
     display: flex;
     align-items: center; 
     background-color: black;
-    height: 120px;  
+    height: 160px;  
     color: white;
     padding-left: 30em;
 }
@@ -98,3 +99,43 @@ figcaption {
     font-weight: 500; 
     margin: 0;
 }
+.ulfooter {
+   list-style-type: none;
+   display: flex;
+   gap: 20px;
+}
+.ulfooter li {
+    margin-top: 4em;
+    
+}
+.brand {
+    color: #888;
+    font-size: 14px;
+  }
+  .price {
+    color: #FF6600;
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  .old-price {
+    text-decoration: line-through;
+    color: #aaa;
+  }
+  .discount {
+    background: red;
+    color: white;
+    padding: 5px;
+    border-radius: 4px;
+    font-size: 12px;
+ 
+
+  }
+  
+  .sustainability {
+    background: green;
+    color: white;
+    padding: 5px;
+    border-radius: 4px;
+    font-size: 12px;
+  }
+ 
